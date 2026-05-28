@@ -2,8 +2,7 @@
 
 # Exercise 1
 def greet():
-    # Write your code here
-    pass
+    print("Hello, World")
 
 # Exercise 2
 def perform_operations(a, b):
